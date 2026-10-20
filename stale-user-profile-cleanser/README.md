@@ -685,7 +685,7 @@ In dry-run mode, profiles may be counted as candidates without being deleted.
 ## Project Structure
 
 ```text
-Stale User Profile Cleanser/
+stale-user-profile-cleanser/
 ├── ProfileCleanup.ps1
 └── README.md
 ```

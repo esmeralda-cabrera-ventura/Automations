@@ -103,7 +103,7 @@ Files remain stored in OneDrive and can be downloaded automatically again when a
 ## Project Structure
 
 ```text
-Local Space Reclaimer/
+local-space-reclaimer/
 ├── Daily_Script_Autostart.ps1
 ├── OneDrive_OnlineOnly.ps1
 └── README.md
